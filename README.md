@@ -1,4 +1,4 @@
-### Hapi - Docker - Git - CircleCi - AWS ECR - AWS ECS
+#### Hapi - Docker - Git - CircleCi - AWS ECR - AWS ECS
 
 An example dockerized hapi "Hello World" application that will deploy to amazon ECS using CircleCi whenever the master branch is updated.
 
